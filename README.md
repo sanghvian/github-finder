@@ -1,3 +1,13 @@
+### GitHub Finder
+
+A **React.js** and **GitHub API** based project that helps you quickly search GitHub users and view their profile, projects and more
+
+---
+
+To view the live working version of the project, go to => (Link)[https://githubfinder-1841.netlify.app/]
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
