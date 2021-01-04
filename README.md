@@ -4,7 +4,7 @@ A **React.js** and **GitHub API** based project that helps you quickly search Gi
 
 ---
 
-To view the live working version of the project, go to => (Link)[https://githubfinder-1841.netlify.app/]
+To view the live working version of the project, go to => [Link](https://githubfinder-1841.netlify.app/)
 
 ---
 
